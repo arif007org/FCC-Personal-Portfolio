@@ -1,0 +1,48 @@
+
+#section-home{
+    margin-top: 70px;
+}
+
+.navbar {
+    background-color: #722872;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.nav-item {
+    font-size: 1.2em;
+    margin-right: 15px;
+}
+
+nav li:nth-child(1) {
+    background-color: #fff;
+}
+
+.nav-custom {
+    color: #000 !important;
+}
+
+nav li:hover {
+    background-color: #fff;
+}
+
+nav li a:hover {
+    color: gray !important;
+}
+
+#section-about {
+    padding: 
+    
+}
+
+#section-portfolio .container {
+    background-color: #eee;
+}
+
+#section-contact .container {
+    background-color: #eee;
+}
+
+footer {
+    background-color: #722872;
+    box-shadow: 5px 2px 0px rgba(0, 0, 0, 0.3);
+}
